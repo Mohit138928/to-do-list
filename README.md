@@ -1,6 +1,3 @@
-Here is the `README.md` file for your "My Todos" project:
-
-````markdown
 # My Todos
 
 This is a To-do list app built on the front-end only where you can add your todo list title and write a brief description on it, and then add it to your list. This will go down in the todo section where you see three buttons: delete, complete, and edit your task. When you complete the todo task and click on the complete button, it will move down into the completed section where you can see your completed todo task, and from there you can also delete it. All tasks are stored in your local storage.
@@ -71,6 +68,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Contact Information
 
 If you have any questions or need further information, feel free to contact me at mauryamohit138@gmail.com.
-````
-
-You can copy this content and save it as `README.md` in the root directory of your project on GitHub. Let me know if there's anything else you need!
