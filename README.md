@@ -67,4 +67,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact Information
 
-If you have any questions or need further information, feel free to contact me at mauryamohit138@gmail.com.
+If you have any questions or need further information, feel free to contact me at [Mohit Maurya](mauryamohit138@gmail.com).
